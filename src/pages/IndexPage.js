@@ -6,6 +6,7 @@ const IndexPage = () => {
       <Post />
       <Post />
       <Post />
+      <Post />
     </>
   )
 }
